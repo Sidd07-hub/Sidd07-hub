@@ -23,7 +23,7 @@ const siddhesh = {
     location: "India 🇮🇳",
     currentFocus: "SDG Projects & R&D",
     learning: ["Cyber Security", "AI/ML", "Cloud Computing"],
-    interests: ["Frontend Development", "Sustainable Development", "Innovation"],
+    interests: ["AWS Cloud & Terraform Specialist", "Sustainable Development", "Innovation"],
     askMeAbout: ["SDG", "R&D", "Web Development", "Cloud Solutions"],
     funFact: "I believe technology can solve world's biggest challenges! 🌍"
 };
