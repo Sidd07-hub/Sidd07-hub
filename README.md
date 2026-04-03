@@ -18,16 +18,13 @@
 
 ## 🌟 About Me
 
-```javascript
-const siddhesh = {
-    location: "India 🇮🇳",
-    currentFocus: "SDG Projects & R&D",
-    learning: ["Cyber Security", "AI/ML", "Cloud Computing"],
-    interests: ["AWS Cloud & Terraform Specialist", "Sustainable Development", "Innovation"],
-    askMeAbout: ["SDG", "R&D", "Web Development", "Cloud Solutions"],
-    funFact: "I believe technology can solve world's biggest challenges! 🌍"
-};
-```
+
+- 📍 Location: India  
+- 🔭 Current Focus: SDG Projects & R&D  
+- 🌱 Learning: Cyber Security | AI/ML | Cloud Computing  
+- 💡 Interests: AWS Cloud | Terraform | Innovation  
+- 💬 Ask Me About: SDG | R&D | Web Development | Cloud  
+- ⚡ Fun Fact: I believe technology can solve world's biggest challenges 🌍
 
 <div align="center">
 
